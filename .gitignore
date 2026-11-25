@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pylintrc
+provider/krednav_session.json
+provider/_engine_state.json
